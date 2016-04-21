@@ -22,14 +22,14 @@ function [p,mu]=polyfitsym(x,y,n)
 %       f = polyval(double(p),x2);
 %       plot(x2,y(x2),'o',x2,f,'-',x1,y(x1),'*');
 %       axis([x2(1) x2(end)  -2  2]); xlabel('x'); ylabel('y(x)');
-%       legend('sin(x)','fit','data',2); legend boxoff;
+%       legend('sin(x)','fit','data','Location','NorthWest'); legend boxoff;
 %
 %   See also: POLYFIT, POLYVAL, SYM, SYMS, SYMFUN
 
 %   Based on version 5.17.4.14 of POLYFIT
 
 %   Andrew D. Horchler, adh9 @ case . edu, Created 7-28-13
-%   Revision: 1.0, 7-28-13
+%   Revision: 1.0, 4-21-16
 
 
 if isa(y,'function_handle') || isa(y,'symfun')
