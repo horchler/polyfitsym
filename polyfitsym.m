@@ -28,7 +28,7 @@ function [p,mu]=polyfitsym(x,y,n)
 
 %   Based on version 5.17.4.14 of POLYFIT
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 7-28-13
+%   Andrew D. Horchler, horchler @ gmail . com, Created 7-28-13
 %   Revision: 1.0, 4-21-16
 
 
