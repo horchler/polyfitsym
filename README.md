@@ -1,8 +1,8 @@
 polyfitsym
 ========
-#####Fit symbolic polynomial to data in Matlab.#####
-######Version 1.0, 4-21-16######
-#####Download Repository: [ZIP Archive](https://github.com/horchler/polyfitsym/archive/master.zip)#####
+##### Fit symbolic polynomial to data in Matlab.
+###### Version 1.0, 4-21-16
+##### Download Repository: [ZIP Archive](https://github.com/horchler/polyfitsym/archive/master.zip)
 
 --------
 
